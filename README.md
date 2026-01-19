@@ -30,11 +30,6 @@ J'aime créer des projets pratiques, modernes et bien faits.
 
 ---
 
-![React Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-![Coding Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
----
-
 ## 📈 Statistiques GitHub
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasA49&show_icons=true&theme=radical)
 
