@@ -9,7 +9,7 @@ J'aime créer des projets pratiques, modernes et bien faits.
 - 🔭 Je travaille sur des projets comme **Hockey_loisir** et **Global Reno**
 - 🌱 Je me forme à **DevOps Full Stack** et **cybersécurité**
 - 👯 J'aime collaborer sur des projets open source
-- 💬 Pose-moi des questions sur **React, Next.js, Tailwind CSS, JavaScript**
+- 💬 Pose-moi des questions sur **React, Next.js, Tailwind CSS, JavaScript, MySQL**
 
 ---
 
@@ -20,12 +20,18 @@ J'aime créer des projets pratiques, modernes et bien faits.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🏆 Projets récents
-[![Hockey_loisir](https://img.shields.io/badge/Hockey_loisir-Projet-1DA1F2?style=for-the-badge)](https://github.com/lucasA49/Hockey_loisir)
-[![Global Reno](https://img.shields.io/badge/Global_Reno-Projet-1DA1F2?style=for-the-badge)](https://github.com/lucasA49/globalreno)
+[![Hockey_loisir](https://img.shields.io/badge/Hockey_loisir-Projet-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasA49/Hockey_loisir)
+[![Global Reno](https://img.shields.io/badge/Global_Reno-Projet-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasA49/globalreno)
+
+---
+
+![React Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
 
