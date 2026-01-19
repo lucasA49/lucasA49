@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Lucas Aksu
+# 👋 Salut, je suis Lucas
 
 Développeur Full Stack passionné par la tech et la cybersécurité, basé en France 🇫🇷.  
 J'aime créer des projets pratiques, modernes et bien faits.
